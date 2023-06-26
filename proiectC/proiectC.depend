@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651455543 source:c:\users\adria\desktop\consolec\proiectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1651451943 source:c:\users\adria\desktop\uvt stuff\pp\proiectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
